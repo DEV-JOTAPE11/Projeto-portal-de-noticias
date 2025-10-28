@@ -53,3 +53,16 @@ img {
 main {
     margin-top: 40px;
 }
+
+.content-tag {
+    display: inline-block;
+    padding: 4px 8px;
+    background-color: var(--brand-color-dark);
+    border-radius: 4px;
+    color: var(--text-color-primary);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    font: 500 10px/1.2 var(--font-family);
+    letter-spacing: 0.04em;
+    box-shadow: 0px 4px 16px rgba(2, 6, 23, 0.25);
+}
